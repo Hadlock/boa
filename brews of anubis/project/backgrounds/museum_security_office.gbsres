@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "3562f573-d07e-47d9-8aee-97790a7d7f2e",
+  "name": "museum security office",
+  "symbol": "bg_museum_security_office",
+  "width": 41,
+  "height": 18,
+  "imageWidth": 328,
+  "imageHeight": 144,
+  "filename": "museum security office.png",
+  "tileColors": "",
+  "autoColor": false
+}

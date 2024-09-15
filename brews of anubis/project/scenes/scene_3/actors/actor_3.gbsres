@@ -1,0 +1,78 @@
+{
+  "_resourceType": "actor",
+  "id": "8bcecf1a-c311-41e3-9db7-66c02b34a236",
+  "name": "",
+  "frame": 0,
+  "animate": false,
+  "spriteSheetId": "c3871f0e-7b42-4f81-a2e0-1707862c4147",
+  "prefabId": "",
+  "direction": "down",
+  "moveSpeed": 1,
+  "animSpeed": 15,
+  "paletteId": "",
+  "isPinned": false,
+  "persistent": false,
+  "collisionGroup": "",
+  "prefabScriptOverrides": {},
+  "symbol": "actor_48",
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "VISITOR 2: They\nsay the mummy\nwasn't the only\nthing missing.\nSome old scrolls"
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "9af1cfe8-5650-4a8c-9077-5416500f1475"
+    },
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "and artifacts went\ntoo. I wonder if \ntheyre related\nsomehow."
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "29b9e7c6-f2ac-43d5-b301-db182fc8b37d"
+    }
+  ],
+  "startScript": [],
+  "updateScript": [],
+  "hit1Script": [],
+  "hit2Script": [],
+  "hit3Script": [],
+  "x": 18,
+  "y": 16,
+  "_index": 2
+}

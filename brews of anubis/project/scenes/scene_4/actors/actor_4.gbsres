@@ -1,0 +1,78 @@
+{
+  "_resourceType": "actor",
+  "id": "e73d38aa-f79f-4891-8ebd-23edfcddefa9",
+  "name": "",
+  "frame": 0,
+  "animate": false,
+  "spriteSheetId": "e6f68a1f-ddaa-4274-b015-00297d8ce717",
+  "prefabId": "",
+  "direction": "down",
+  "moveSpeed": 1,
+  "animSpeed": 15,
+  "paletteId": "",
+  "isPinned": false,
+  "persistent": false,
+  "collisionGroup": "",
+  "prefabScriptOverrides": {},
+  "symbol": "actor_43",
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "WITNESS 2: There\nwere reports of\ngrowling sounds\nnear the museum\nat night. The cops"
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "ceff34dc-0f42-4433-b6a2-fe2d45517817"
+    },
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "thought it was\njust animals, but\nnow they’re not\nso sure."
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "f0a621bb-d261-45e8-9c0c-23fa9bb9097b"
+    }
+  ],
+  "startScript": [],
+  "updateScript": [],
+  "hit1Script": [],
+  "hit2Script": [],
+  "hit3Script": [],
+  "x": 19,
+  "y": 14,
+  "_index": 3
+}

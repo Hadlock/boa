@@ -1,0 +1,83 @@
+{
+  "_resourceType": "trigger",
+  "id": "a6fdea3a-dd60-46da-878d-4326ef3e9d73",
+  "name": "",
+  "prefabId": "",
+  "x": 31,
+  "y": 12,
+  "symbol": "trigger_5",
+  "prefabScriptOverrides": {},
+  "width": 4,
+  "height": 3,
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "LUCY (TO SELF):\nWhere is it? There\nhas to be\nsomething here\nabout controlling"
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "dac99297-4312-4fde-83fc-fbc87b02140f"
+    },
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "curses. The book\nMr. Winters\nmentioned... it\nmust be around \nhere somewhere."
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "7e5c219c-3e8d-47f8-aa92-5572681fe8ba"
+    },
+    {
+      "command": "EVENT_SWITCH_SCENE",
+      "args": {
+        "sceneId": "60cfb8fb-eaec-48b4-a6d9-c3d1fe5ece30",
+        "x": {
+          "type": "number",
+          "value": 30
+        },
+        "y": {
+          "type": "number",
+          "value": 14
+        },
+        "direction": "",
+        "fadeSpeed": "2"
+      },
+      "id": "e8bebb20-3050-444c-96a0-04994d9b1fc4"
+    }
+  ],
+  "leaveScript": [],
+  "_index": 0
+}

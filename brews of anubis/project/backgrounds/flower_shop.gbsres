@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "e209c314-5905-4b78-8beb-510478fc2372",
+  "name": "flower shop",
+  "symbol": "bg_flower_shop",
+  "width": 41,
+  "height": 18,
+  "imageWidth": 328,
+  "imageHeight": 144,
+  "filename": "flower shop.png",
+  "tileColors": "",
+  "autoColor": false
+}

@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "d631c689-335c-48bc-86ce-6c8a7f17c946",
+  "name": "hadlock-credits",
+  "symbol": "bg_hadlock_credits",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "hadlock-credits.png",
+  "tileColors": ""
+}

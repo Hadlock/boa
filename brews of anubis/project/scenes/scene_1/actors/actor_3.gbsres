@@ -1,0 +1,78 @@
+{
+  "_resourceType": "actor",
+  "id": "df9d1fd7-e92a-47ce-ade8-a85510cb6b8f",
+  "name": "",
+  "frame": 0,
+  "animate": false,
+  "spriteSheetId": "4ec704b1-c13b-4115-be34-df8f12b469c0",
+  "prefabId": "",
+  "direction": "down",
+  "moveSpeed": 1,
+  "animSpeed": 15,
+  "paletteId": "",
+  "isPinned": false,
+  "persistent": false,
+  "collisionGroup": "",
+  "prefabScriptOverrides": {},
+  "symbol": "actor_2",
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "The museum's keep-\n-ing it hush-hush,\nbut there's a rumor\nthe artifact that\nwent missing is"
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "c9b2e417-57d8-4e25-a7b7-e91ea5267905"
+    },
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "cursed. People\nhave already started\ndisappearing."
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "a1f4785d-2575-41da-ab86-cdee1eb2d120"
+    }
+  ],
+  "startScript": [],
+  "updateScript": [],
+  "hit1Script": [],
+  "hit2Script": [],
+  "hit3Script": [],
+  "x": 24,
+  "y": 17,
+  "_index": 2
+}

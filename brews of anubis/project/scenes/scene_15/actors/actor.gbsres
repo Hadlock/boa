@@ -1,0 +1,78 @@
+{
+  "_resourceType": "actor",
+  "id": "ae013d34-c7ec-40c9-a9f8-2f38748a0254",
+  "name": "",
+  "frame": 0,
+  "animate": false,
+  "spriteSheetId": "de991297-3ec3-4f8b-8abc-527a9d157241",
+  "prefabId": "",
+  "direction": "down",
+  "moveSpeed": 1,
+  "animSpeed": 15,
+  "paletteId": "",
+  "isPinned": false,
+  "persistent": false,
+  "collisionGroup": "",
+  "prefabScriptOverrides": {},
+  "symbol": "actor_5",
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "I overheard one of\nthe guards quit on\nthe spot-said he\nheard whispering\nin a language"
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 7,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "6be6dd64-e71a-42e7-8669-45c088ac7f21"
+    },
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "no one's spoken\nfor thousands of\nyears...\ngave him the\nchills."
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "c38860e3-501b-42d5-81a1-12c666a2300d"
+    }
+  ],
+  "startScript": [],
+  "updateScript": [],
+  "hit1Script": [],
+  "hit2Script": [],
+  "hit3Script": [],
+  "x": 14,
+  "y": 15,
+  "_index": 0
+}

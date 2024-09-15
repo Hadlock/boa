@@ -1,0 +1,27 @@
+{
+  "_resourceType": "scene",
+  "id": "0f2f7145-67a7-46ec-8600-f0426abd8e8f",
+  "_index": 10,
+  "type": "TOPDOWN",
+  "name": "Scene 8",
+  "symbol": "scene_11",
+  "x": 639.9487179487179,
+  "y": 1688.6666666666665,
+  "width": 41,
+  "height": 18,
+  "backgroundId": "bccadefe-b3ef-41db-ac6a-467f9cc0992b",
+  "tilesetId": "",
+  "paletteIds": [
+    "",
+    "",
+    "default-bg-1"
+  ],
+  "spritePaletteIds": [],
+  "autoFadeSpeed": 1,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "collisions": "0019f+0f4+0023+0f26+00!0f5+002+40!60!40!60!0f22+00!40!60!40!60!001f+0f3+00!40!60!40!60!0023+40!60!40!60!0023+40!60!40!60!0025+40!60!0027+",
+  "playerSpriteSheetId": "02e21394-910b-4a96-af65-6a779c9372a7"
+}

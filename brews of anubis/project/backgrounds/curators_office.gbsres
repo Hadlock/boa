@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "3b68de97-75a5-4635-abd0-c443a3b5ebe8",
+  "name": "curators office",
+  "symbol": "bg_curators_office",
+  "width": 41,
+  "height": 18,
+  "imageWidth": 328,
+  "imageHeight": 144,
+  "filename": "curators office.png",
+  "tileColors": "",
+  "autoColor": false
+}

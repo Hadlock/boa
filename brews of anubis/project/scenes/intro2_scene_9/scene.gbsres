@@ -1,0 +1,40 @@
+{
+  "_resourceType": "scene",
+  "id": "023f78bc-78cc-4f29-a312-23b8936909a1",
+  "_index": 8,
+  "name": "Intro2 Scene 9",
+  "backgroundId": "76453e84-5c18-4b34-b8e5-1dbc2a9c5136",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "LOGO",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "00168+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_9",
+  "x": 1142.2290076335878,
+  "y": 104.06106870229007,
+  "script": [
+    {
+      "command": "EVENT_SWITCH_SCENE",
+      "args": {
+        "sceneId": "dc4f7752-5bfe-4a44-833e-8db95c2a260c",
+        "x": {
+          "type": "number",
+          "value": 9
+        },
+        "y": {
+          "type": "number",
+          "value": 14
+        },
+        "direction": "",
+        "fadeSpeed": 4
+      },
+      "id": "11f2c79b-88f0-41a9-8b00-e3e099796a17"
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "12030a0a-c243-4026-9448-22f9579f32fc",
+  "name": "music-credits",
+  "symbol": "bg_music_credits",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "music-credits.png",
+  "tileColors": ""
+}

@@ -1,0 +1,42 @@
+{
+  "_resourceType": "scene",
+  "id": "d426706d-e9c4-475f-9ac7-76420d4b39a1",
+  "_index": 7,
+  "name": "Intro Scene 8",
+  "backgroundId": "7cbb6038-e833-474d-a3db-88224e42dfae",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "LOGO",
+  "paletteIds": [
+    "default-bg-1"
+  ],
+  "spritePaletteIds": [],
+  "collisions": "00168+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_8",
+  "x": 960,
+  "y": 56,
+  "script": [
+    {
+      "command": "EVENT_SWITCH_SCENE",
+      "args": {
+        "sceneId": "023f78bc-78cc-4f29-a312-23b8936909a1",
+        "x": {
+          "type": "number",
+          "value": 0
+        },
+        "y": {
+          "type": "number",
+          "value": 0
+        },
+        "direction": "",
+        "fadeSpeed": 6
+      },
+      "id": "4ad6ad61-1e60-4387-9332-6f159df052b6"
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

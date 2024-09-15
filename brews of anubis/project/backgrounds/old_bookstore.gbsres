@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "abc7f4c9-8269-45dc-8def-b87042018dfc",
+  "name": "old bookstore",
+  "symbol": "bg_old_bookstore",
+  "width": 57,
+  "height": 18,
+  "imageWidth": 456,
+  "imageHeight": 144,
+  "filename": "old bookstore.png",
+  "tileColors": "",
+  "autoColor": false
+}

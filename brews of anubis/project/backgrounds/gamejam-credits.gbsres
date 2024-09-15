@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "cb3f0fae-8c0a-4ca4-bacb-2e8dff891b9e",
+  "name": "gamejam-credits",
+  "symbol": "bg_gamejam_credits",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "gamejam-credits.png",
+  "tileColors": ""
+}

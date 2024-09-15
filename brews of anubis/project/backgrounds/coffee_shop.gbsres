@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "bccadefe-b3ef-41db-ac6a-467f9cc0992b",
+  "name": "coffee shop",
+  "symbol": "bg_coffee_shop",
+  "width": 41,
+  "height": 18,
+  "imageWidth": 328,
+  "imageHeight": 144,
+  "filename": "coffee shop.png",
+  "tileColors": "",
+  "autoColor": false
+}

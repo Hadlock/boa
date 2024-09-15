@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "db1646be-f260-408b-b821-23e5976e537b",
+  "name": "sprites-credits",
+  "symbol": "bg_sprites_credits",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "sprites-credits.png",
+  "tileColors": ""
+}

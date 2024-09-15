@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "7cbb6038-e833-474d-a3db-88224e42dfae",
+  "name": "moon",
+  "symbol": "bg_tile_output",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "moon.png",
+  "tileColors": "",
+  "autoColor": false
+}
